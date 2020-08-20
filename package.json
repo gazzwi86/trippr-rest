@@ -25,7 +25,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "bcrypt": "^3.0.3",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "classnames": "^2.2.6",
     "dotenv": "^6.2.0",
